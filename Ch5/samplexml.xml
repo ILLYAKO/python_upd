@@ -3,8 +3,8 @@
   <firstname>Joe</firstname>
   <lastname>Marini</lastname>
   <home>Seattle</home>
-  <skill name="JavaScript"/>
-  <skill name="Python"/>
+  <skill name="JavaScript."/>
+  <skill name="Python."/>
   <skill name="C#"/>
   <skill name="HTML"/>
 </person>
